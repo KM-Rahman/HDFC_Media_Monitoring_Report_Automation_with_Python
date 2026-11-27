@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local Excel input and generated output files
+HDFC_News.xlsx
+HDFC_Ads.xlsx
+HDFC_news_processed.xlsx
+HDFC_ads_processed.xlsx
+*_cleaned.xlsx
+
+# Temporary files
+~$*.xlsx
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,3 +1,15 @@
+
+## Screenshots
+
+### Processed News Report
+
+![Processed News Report](screenshots/news_processed_output.png)
+
+### Processed Advertisement Report
+
+![Processed Advertisement Report](screenshots/ads_processed_output.png)
+
+
 # HDFC Media Monitoring Report Automation with Python
 
 Automating News and Print Advertisement media monitoring report processing using Python, Pandas and OpenPyXL.
